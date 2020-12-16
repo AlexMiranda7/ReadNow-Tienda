@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+
+
+body {
+    font-family: 'Lato', sans-serif;
+    
+}
+
+/*Barra de navegación donde iran el usuario y cuenta*/
+.nav {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #4971A6;
+    font-size: 20px;
+}
+
+
+
+.nav-item {
+    margin-left: 20px;
+
+}
+
+.nav-item a {
+    color: white;
+
+}
+
+.navbar .nav-item:not(:last-child) {
+  margin-right: 35px;
+}
+ 
+.dropdown-toggle::after {
+   transition: transform 0.15s linear; 
+}
+ 
+.show.dropdown .dropdown-toggle::after {
+  transform: translateY(3px);
+}
+
+.dropdown-menu {
+  margin-top: 0;
+}
+
+
+#NavSecundario {
+    background-color: white;
+    border: solid 1px #4971A6;
+    border-radius: 7px;
+}
+
+#NavSecundario a {
+    color: black;
+}
+
+#NavSecundario form {
+    margin-top: 7px;
+}
+
+
+.container {
+    
+   
+}
+
+/*Botones de opciones*/
+
+/*button {
+    border: 2px solid transparent;
+    background-image: linear-gradient(to bottom right, #021F59, #4971A6);
+    padding: 10px 24px;
+    color: #fff;
+    transition: 0.4s;
+    border-radius: 50px;
+
+}*/
+
+.btn{
+    color: white;
+    font-family: 'Lato', sans-serif;
+    border: 2px solid transparent;
+    background-image: linear-gradient(to bottom right, #021F59, #4971A6);
+    padding: 10px 24px;
+    color: #fff;
+    transition: 0.4s;
+    border-radius: 50px;
+}
+
+#btn-detalles{
+    margin-left: 25%
+}
+
+#btn-closemodal{
+    border: 2px solid #4971A6; 
+    color: black;
+    background-image: none;
+    background-color: white;
+}
+
+#tag{
+    background-color: #F2E4DC;
+    border: 2px solid transparent;
+    border-radius: 20px;
+    padding: 3px;
+    margin-top: 2px;
+    color: black;
+    
+}
+
+.card{
+    margin-top: 5%
+}
+
+button.swal2-confirm.swal2-styled {
+    width: 60%;
+    height: 50%;
+    background-color: black;
+}

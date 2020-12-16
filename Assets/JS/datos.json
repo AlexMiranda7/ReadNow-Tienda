@@ -1,0 +1,151 @@
+{
+    "categorias" : [
+        {
+            "cat_id" : "1",
+            "cat_nombre" : "Aventura"
+        },
+        {
+            "cat_id" : "2",
+            "cat_nombre" : "Romance"
+        },
+        {
+            "cat_id" : "3",
+            "cat_nombre" : "Comedia"
+        },
+        {
+            "cat_id" : "4",
+            "cat_nombre" : "Terror"
+        },
+        {
+            "cat_id" : "5",
+            "cat_nombre" : "Ciencia Ficción"
+        }
+    ],
+    "productos" : [
+        {
+            "prod_id" : "1",
+            "cat_id" : "1",
+            "nombre" : "Las aventuras de Tom Sawyer",
+            "precio" : 54.99,
+            "descripcion" : "Tom Sawyer es un muchacho joven que vive en una ciudad pequeña al suroeste de Estados Unidos a orilla del Mississippi junto a su tía Polly , quien lo ha cuidado desde que su hermana y el esposo de esta han fellecido , su prima Mary , una encantadora y dulce muchacha , y su hermano pequeño Sid",
+            "in_stock" : true,
+            "cantidad" : 10,
+            "rating" : 5,
+            "imagen" : "/Assets/IMG/tom.jpg",
+            "instock": true
+        },
+        {
+            "prod_id" : "1",
+            "cat_id" : "1",
+            "nombre" : "Las aventuras de Tom Sawyer",
+            "precio" : 54.99,
+            "descripcion" : "Tom Sawyer es un muchacho joven que vive en una ciudad pequeña al suroeste de Estados Unidos a orilla del Mississippi junto a su tía Polly , quien lo ha cuidado desde que su hermana y el esposo de esta han fellecido , su prima Mary , una encantadora y dulce muchacha , y su hermano pequeño Sid",
+            "in_stock" : true,
+            "cantidad" : 10,
+            "rating" : 5,
+            "imagen" : "/Assets/IMG/tom.jpg",
+            "instock": true
+        },
+        {
+            "prod_id" : "1",
+            "cat_id" : "1",
+            "nombre" : "Las aventuras de Tom Sawyer",
+            "precio" : 54.99,
+            "descripcion" : "Tom Sawyer es un muchacho joven que vive en una ciudad pequeña al suroeste de Estados Unidos a orilla del Mississippi junto a su tía Polly , quien lo ha cuidado desde que su hermana y el esposo de esta han fellecido , su prima Mary , una encantadora y dulce muchacha , y su hermano pequeño Sid",
+            "in_stock" : true,
+            "cantidad" : 10,
+            "rating" : 5,
+            "imagen" : "/Assets/IMG/tom.jpg",
+            "instock": true
+        },
+        {
+            "prod_id" : "1",
+            "cat_id" : "1",
+            "nombre" : "Las aventuras de Tom Sawyer",
+            "precio" : 54.99,
+            "descripcion" : "Tom Sawyer es un muchacho joven que vive en una ciudad pequeña al suroeste de Estados Unidos a orilla del Mississippi junto a su tía Polly , quien lo ha cuidado desde que su hermana y el esposo de esta han fellecido , su prima Mary , una encantadora y dulce muchacha , y su hermano pequeño Sid",
+            "in_stock" : true,
+            "cantidad" : 10,
+            "rating" : 5,
+            "imagen" : "/Assets/IMG/tom.jpg",
+            "instock": true
+        },
+        {
+            "prod_id" : "1",
+            "cat_id" : "1",
+            "nombre" : "Las aventuras de Tom Sawyer",
+            "precio" : 54.99,
+            "descripcion" : "Tom Sawyer es un muchacho joven que vive en una ciudad pequeña al suroeste de Estados Unidos a orilla del Mississippi junto a su tía Polly , quien lo ha cuidado desde que su hermana y el esposo de esta han fellecido , su prima Mary , una encantadora y dulce muchacha , y su hermano pequeño Sid",
+            "in_stock" : true,
+            "cantidad" : 10,
+            "rating" : 5,
+            "imagen" : "/Assets/IMG/tom.jpg",
+            "instock": true
+        },
+        {
+            "prod_id" : "1",
+            "cat_id" : "1",
+            "nombre" : "Las aventuras de Tom Sawyer",
+            "precio" : 54.99,
+            "descripcion" : "Tom Sawyer es un muchacho joven que vive en una ciudad pequeña al suroeste de Estados Unidos a orilla del Mississippi junto a su tía Polly , quien lo ha cuidado desde que su hermana y el esposo de esta han fellecido , su prima Mary , una encantadora y dulce muchacha , y su hermano pequeño Sid",
+            "in_stock" : true,
+            "cantidad" : 10,
+            "rating" : 5,
+            "imagen" : "/Assets/IMG/tom.jpg",
+            "instock": true
+        },
+        {
+            "prod_id" : "1",
+            "cat_id" : "1",
+            "nombre" : "Las aventuras de Tom Sawyer",
+            "precio" : 54.99,
+            "descripcion" : "Tom Sawyer es un muchacho joven que vive en una ciudad pequeña al suroeste de Estados Unidos a orilla del Mississippi junto a su tía Polly , quien lo ha cuidado desde que su hermana y el esposo de esta han fellecido , su prima Mary , una encantadora y dulce muchacha , y su hermano pequeño Sid",
+            "in_stock" : true,
+            "cantidad" : 10,
+            "rating" : 5,
+            "imagen" : "/Assets/IMG/tom.jpg",
+            "instock": true
+        },
+        {
+            "prod_id" : "1",
+            "cat_id" : "1",
+            "nombre" : "Las aventuras de Tom Sawyer",
+            "precio" : 54.99,
+            "descripcion" : "Tom Sawyer es un muchacho joven que vive en una ciudad pequeña al suroeste de Estados Unidos a orilla del Mississippi junto a su tía Polly , quien lo ha cuidado desde que su hermana y el esposo de esta han fellecido , su prima Mary , una encantadora y dulce muchacha , y su hermano pequeño Sid",
+            "in_stock" : true,
+            "cantidad" : 10,
+            "rating" : 5,
+            "imagen" : "/Assets/IMG/tom.jpg",
+            "instock": true
+        },
+        {
+            "prod_id" : "1",
+            "cat_id" : "1",
+            "nombre" : "Las aventuras de Tom Sawyer",
+            "precio" : 54.99,
+            "descripcion" : "Tom Sawyer es un muchacho joven que vive en una ciudad pequeña al suroeste de Estados Unidos a orilla del Mississippi junto a su tía Polly , quien lo ha cuidado desde que su hermana y el esposo de esta han fellecido , su prima Mary , una encantadora y dulce muchacha , y su hermano pequeño Sid",
+            "in_stock" : true,
+            "cantidad" : 10,
+            "rating" : 5,
+            "imagen" : "/Assets/IMG/tom.jpg",
+            "instock": true
+        },
+        {
+            "prod_id" : "1",
+            "cat_id" : "1",
+            "nombre" : "Las aventuras de Tom Sawyer",
+            "precio" : 54.99,
+            "descripcion" : "Tom Sawyer es un muchacho joven que vive en una ciudad pequeña al suroeste de Estados Unidos a orilla del Mississippi junto a su tía Polly , quien lo ha cuidado desde que su hermana y el esposo de esta han fellecido , su prima Mary , una encantadora y dulce muchacha , y su hermano pequeño Sid",
+            "in_stock" : true,
+            "cantidad" : 10,
+            "rating" : 5,
+            "imagen" : "/Assets/IMG/tom.jpg",
+            "instock": true
+        }        
+    ],
+    "comprador":[
+        {
+            "fondos" : 0
+        }
+    ]
+}
